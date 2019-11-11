@@ -43,11 +43,16 @@ a:hover {
 
 #welcomeNav {
 	font-size: 35px;
+    white-space: nowrap;
 }
 
 #aboutImg {
 	width: 50%;
 	margin: 0 auto auto;
+}
+
+.navBars {
+    white-space: nowrap;
 }
 
 .portraitShowcase {
