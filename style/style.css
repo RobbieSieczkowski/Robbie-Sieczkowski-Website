@@ -25,6 +25,10 @@ nav a {
 	text-shadow: -1px 1px 3px #777777;
 }
 
+article {
+	text-align: left;
+}
+
 a:hover {
 	color: #1FC3FF;
 }
@@ -42,8 +46,7 @@ a:hover {
 }
 
 #welcomeNav {
-	font-size: 35px;
-    white-space: nowrap;
+	font-size: 30px;
 }
 
 #aboutImg {
@@ -51,19 +54,11 @@ a:hover {
 	margin: 0 auto auto;
 }
 
-.navBars {
-    white-space: nowrap;
-}
-
 .portraitShowcase {
 	margin: 2%;
 	width: 28%;
 	height: auto;
 	display: inline-block;
-}
-
-.blogpost {
-	text-align: left;
 }
 
 .squareLinks {
