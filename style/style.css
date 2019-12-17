@@ -34,19 +34,19 @@ a:hover {
 }
 
 #welcomeHeader {
-	font-size: 350%;
+	font-size: 300%;
 	margin: 2%;
 }
 
 #welcomeImg {
-	width: 90%;
+	width: 80%;
 	height: auto;
 	margin: 0 auto auto;
 	padding: 0px;
 }
 
 #welcomeNav {
-	font-size: 30px;
+	font-size: 25px;
 }
 
 #aboutImg {
