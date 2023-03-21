@@ -1,0 +1,78 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+	color: #000;
+	font-size: 20px;
+	width: 80%;
+	max-width: 960px;
+	min-width: 300px;
+	margin: 0 auto auto;
+	text-align: center;
+}
+
+header {
+	color: #000;
+	font-size: 30px;
+	text-shadow: -2px 2px 3px #777777;
+}
+
+nav a {
+	color: #000;
+	text-decoration: none;
+	margin: 5%;
+	text-shadow: -1px 1px 3px #777777;
+}
+
+article {
+	text-align: left;
+}
+
+a:hover {
+	color: #1FC3FF;
+}
+
+#welcomeHeader {
+	font-size: 300%;
+	margin: 2%;
+}
+
+#welcomeImg {
+	width: 80%;
+	height: auto;
+	margin: 0 auto auto;
+	padding: 0px;
+}
+
+#welcomeNav {
+	font-size: 22px;
+}
+
+#aboutImg {
+	width: 50%;
+	margin: 0 auto auto;
+}
+
+.portraitShowcase {
+	margin: 2%;
+	width: 28%;
+	height: auto;
+	display: inline-block;
+}
+
+.squareLinks {
+	text-align: center;
+}
+
+footer {
+	font-size: 16px;
+	text-align: center;
+	color: #000;
+	background-color: lightgray;
+}
+
+footer a {
+	text-decoration: none;
+	color: #000;
+}
