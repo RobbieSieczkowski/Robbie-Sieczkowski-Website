@@ -2,10 +2,10 @@
 /* CSS Document */
 
 body {
-	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+	font-family: 'Lora', serif;
 	color: #000;
 	font-size: 20px;
-	width: 80%;
+	width: 100%;
 	max-width: 960px;
 	min-width: 300px;
 	margin: 0 auto auto;
@@ -14,8 +14,7 @@ body {
 
 header {
 	color: #000;
-	font-size: 30px;
-	text-shadow: -2px 2px 3px #777777;
+	font-size: 120%;
 }
 
 nav a {
