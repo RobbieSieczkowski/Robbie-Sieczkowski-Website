@@ -3,7 +3,8 @@
 
 body {
 	font-family: 'Lora', serif;
-	color: #000;
+	background: #242424;
+	color: #FFF;
 	font-size: 20px;
 	width: 100%;
 	max-width: 960px;
@@ -12,65 +13,54 @@ body {
 	text-align: center;
 }
 
-header {
-	color: #000;
-	font-size: 120%;
+a {
+	color: #FFF;
+	font-style: italic;
 }
 
 nav a {
-	color: #000;
+	color: #AAAAAA;
+	font-size: 22px;
+	font-style: normal;
 	text-decoration: none;
 	margin: 5%;
 }
 
-article {
-	text-align: left;
+a:hover {
+	color: #ff9900;
 }
 
-a:hover {
-	color: #1FC3FF;
+header {
+	color: #FFF;
+	font-size: 360%;
+	margin: 2%;
 }
 
 #welcomeHeader {
-	font-size: 300%;
 	margin: 2%;
+}
+
+#welcomeSubheader {
+	font-size: 24px;
+}
+
+#welcomeMsg {
+	font-size: 14px;
+	text-align: left;
+	margin: 0 8% 0 8%;
 }
 
 #welcomeImg {
-	width: 80%;
-	height: auto;
-	margin: 0 auto auto;
-	padding: 0px;
+	float: left;
+	margin-right: 10px;
 }
 
-#welcomeNav {
-	font-size: 22px;
+.subheader {
+	font-size: 240%;
 }
 
-#aboutImg {
-	width: 50%;
-	margin: 0 auto auto;
-}
-
-.portraitShowcase {
-	margin: 2%;
-	width: 28%;
-	height: auto;
-	display: inline-block;
-}
-
-.squareLinks {
-	text-align: center;
-}
-
-footer {
-	font-size: 16px;
-	text-align: center;
-	color: #000;
-	background-color: lightgray;
-}
-
-footer a {
-	text-decoration: none;
-	color: #000;
+.img {
+	height: 140px;
+	width: auto;
+	margin: 0 5px 0 5px;
 }
