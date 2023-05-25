@@ -1,0 +1,10 @@
+Things to improve:
+
+- Add borders to frame the page
+- Markup/emphasize keywords for Google SEO (especially to help people find me as a scholar/vr developer/connection)
+- Top nav bar comes down with you when you scroll
+- Size up welcome text font by 2
+- Size up CV and/or put it in an interactable window (iframe?)
+
+HOT TIPS
+https://thewebsitearchitect.com/how-to-modernize-a-website/
